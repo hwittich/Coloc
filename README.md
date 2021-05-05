@@ -116,7 +116,7 @@ nohup python3 main_wrapper.py --gwas ~/Coloc/Test/GWAS_SS --eqtl ~/Coloc/Test/ci
 ## Workflow ##
 ---
 
-### Visualizatoin ###
+### Visualization ###
 ![new_workflow](https://user-images.githubusercontent.com/79813488/116830969-64299400-ab72-11eb-8c11-f46eb30c6430.PNG)
 
 ### Scripts 1a-b ###
